@@ -15,4 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <a href="https://app.daily.dev/samarpratap"><img src="https://api.daily.dev/devcards/v2/vTIAfMX84ovVo8G3xkuui.png?type=default&r=e92" width="356" alt="Samar Pratap's Dev Card"/></a>
-<a href="https://drive.google.com/file/d/12fexbhxX5VZbysYaOTWkoYS9dxcwmexf/view?usp=sharing"><img src="https://drive.google.com/file/d/12fexbhxX5VZbysYaOTWkoYS9dxcwmexf/view?usp=sharing" width = "350" alt="hackhazard badge"/></a>
+![HACKHAZARDS Badge](https://raw.githubusercontent.com/SamarPratap14/SamarPratap14/main/HACKHAZARDS-BADGE.png)
+
