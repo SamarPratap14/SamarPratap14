@@ -17,3 +17,4 @@ Here are some ideas to get you started:
 <a href="https://app.daily.dev/samarpratap"><img src="https://api.daily.dev/devcards/v2/vTIAfMX84ovVo8G3xkuui.png?type=default&r=e92" width="356" alt="Samar Pratap's Dev Card"/></a>
 ![HACKHAZARDS Badge](https://raw.githubusercontent.com/SamarPratap14/SamarPratap14/main/HACKHAZARDS-BADGE.png)
 
+<a href="https://raw.githubusercontent.com/SamarPratap14/repository-name/main/HACKHAZARDS-BADGE.png"><img src="https://raw.githubusercontent.com/SamarPratap14/repository-name/main/HACKHAZARDS-BADGE.png" width="356"/></a>
